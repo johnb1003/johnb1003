@@ -1,4 +1,4 @@
-## Take a look at my latest project, Eat The Frog!
+## Take a look at my latest personal project, Eat The Frog!
 
 ### Website: [EatTheFrog.app](https://eatthefrog.app)
 
